@@ -913,16 +913,11 @@ blockquote cite a:visited 				{ color:#555; }
 }
 
 /* --- button --- */
-.btn{text-align: center;
-background: #e7552e;
-color: #fff;
-}
-.btn-theme {
-	color: #fff;
-}
-.btn-theme:hover {
-	color: #eee;
-}
+
+.btn{color:#ffffff;background-color:#e7552e;border-color:#ffffff;}
+.btn{font-size: 15px;border-radius: 50px;font-weight: normal;font-weight: bold;font-weight: 900;}
+.btn{height: 40px;width: 250px;}
+
 
 /* --- list style --- */
 

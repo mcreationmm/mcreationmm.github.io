@@ -1187,6 +1187,9 @@ border: 1px solid #e6e6e6;
 	font-family:'Noto Serif', serif;
 }
 
+.pricing-terms{border-radius: 50px;font-weight: bold;}
+.pricing-box-item{border-radius: 50px;font-weight: bold;}
+
 .pricing-box-item .icon .price-circled {
     margin: 10px 10px 10px 0;
     display: inline-block !important;

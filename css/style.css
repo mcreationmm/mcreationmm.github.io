@@ -519,7 +519,7 @@ color:#428bca
   background: #FFFFFF;
   background-size: cover;
   color: #000;
-  /* background: url('../images/img2.jpg'); */
+ /*  background: url('https://raw.githubusercontent.com/mcreationmm/img/gh-pages/img/slides/3.png'); */
   background-size: contain;
 }
 #business-stats h1,
@@ -530,19 +530,22 @@ color:#428bca
 }
 #business-stats strong {
   display: block;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 .business-stats {
   display: inline-block;
   width: 140px;
-  height: 50px;
+  height: 80px;
   font-weight: bold;
+  color: #ffffff;
   font-size: 24px;
-  line-height: 40px;
-  border: 4px solid #F9690E;
+  line-height: 70px;
+  background: #ed5441;
+  border: 5px solid #faa211;
   border-radius: 100px;
-  margin-bottom: 20px;
+  margin-bottom: 0px;
 }
+
 
 
 /====pricing====/

@@ -1223,7 +1223,7 @@ color:#353535;
 }
 
 .pricing-container ul li{
-	border-bottom: 5px solid #faa211;
+	border-bottom: 2px solid #faa211;
 list-style: none;
 padding: 15px 0 15px 0;
 margin: 0 0 0 0;
@@ -1242,7 +1242,7 @@ color: #222;
 	background:#fd0000;
 }
  .pricing-box-item {
-  border: 5px solid #faa211;
+  border: 2px solid #faa211;
 	background:#fcfcfc;
 	position:relative;
 	margin:0 0 20px 0;

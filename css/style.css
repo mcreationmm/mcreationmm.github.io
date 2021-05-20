@@ -1182,6 +1182,8 @@ ul.team-detail li ul.social-network li i {
 	margin-bottom:0;
 }
 
+
+
 .pricing-offer{
 	background: #fcfcfc;
 	text-align: center;
@@ -1221,7 +1223,7 @@ color:#353535;
 }
 
 .pricing-container ul li{
-	border-bottom: 1px solid #CFCFCF;
+	border-bottom: 5px solid #faa211;
 list-style: none;
 padding: 15px 0 15px 0;
 margin: 0 0 0 0;
@@ -1240,7 +1242,7 @@ color: #222;
 	background:#fd0000;
 }
  .pricing-box-item {
-border: 1px solid #8e8e8e;
+  border: 5px solid #faa211;
 	background:#fcfcfc;
 	position:relative;
 	margin:0 0 20px 0;
@@ -1296,8 +1298,22 @@ border: 1px solid #8e8e8e;
 	font-family:'Noto Serif', serif;
 }
 
-.pricing-terms{border-radius: 50px;font-weight: bold;}
+
 .pricing-box-item{border-radius: 50px;font-weight: bold;}
+
+.pricing-terms {
+  display: inline-block;
+  height: 60px;
+  font-weight: bold;
+  color: #ffffff;
+  font-size: 20px;
+  line-height: 20px;
+  background: #ed5441;
+  border: 5px solid #faa211;
+  border-radius: 100px;
+  margin-bottom: 0px;
+}
+
 
 .pricing-box-item .icon .price-circled {
     margin: 10px 10px 10px 0;

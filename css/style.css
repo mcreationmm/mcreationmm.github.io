@@ -1299,7 +1299,9 @@ color: #222;
 }
 
 
-.pricing-box-item{border-radius: 50px;font-weight: bold;}
+.pricing-box-item {
+border-radius: 50px;
+font-weight: bold;}
 
 .pricing-terms {
   display: inline-block;
@@ -1314,6 +1316,26 @@ color: #222;
   margin-bottom: 0px;
 }
 
+
+.oq-terms {
+  text-align: center;
+  height: 100px;
+  weight: 160px;
+  font-weight: bold;
+  color: #ffffff;
+  font-size: 30px;
+  line-height: 30px;
+  background: #ed5441;
+  border: 5px solid #faa211;
+
+  margin-bottom: 0px;
+}
+
+
+.oq-title {
+	text-align:center;
+	padding:10px 0 10px 0;
+}
 
 .pricing-box-item .icon .price-circled {
     margin: 10px 10px 10px 0;

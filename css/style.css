@@ -26,7 +26,7 @@ a:active {
 	clear:both;
 }
 
-h1,h3, h5, h6 {
+h1, h5, h6 {
 	font-family:'Open Sans', Arial, sans-serif;
 	font-weight:700;
 	line-height:1.1em;
@@ -37,6 +37,15 @@ h1,h3, h5, h6 {
 h2 {
 	font-family: 'FontAwesomem';
 	font-size:25px;
+	font-weight:700;
+	line-height:1.1em;
+	color:#333;
+	margin-bottom: 20px;
+}
+
+h3 {
+	font-family: 'FontAwesomem';
+	font-size:15px;
 	font-weight:700;
 	line-height:1.1em;
 	color:#333;

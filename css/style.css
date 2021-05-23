@@ -52,6 +52,15 @@ h3 {
 	margin-bottom: 20px;
 }
 
+hp {
+	font-family: 'FontAwesomem';
+	font-size:10px;
+	font-weight:700;
+	line-height:1.1em;
+	color:#333;
+	margin-bottom: 20px;
+}
+
 h4 {
 	font-family:'Open Sans', Arial, sans-serif;
 	font-weight:700;

@@ -84,6 +84,7 @@ img.img-polaroid {
 ==================================== */
  
 header .navbar {
+    font-family: 'FontAwesome';
     margin-bottom: 0;
 }
 
